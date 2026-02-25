@@ -1,0 +1,6 @@
+# Wrangler configuration for Cloudflare Pages deployment
+# This file is used for CLI deployments via `wrangler pages deploy`
+
+name = "cohort-summit"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
